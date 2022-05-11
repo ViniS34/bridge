@@ -1,4 +1,4 @@
-package Interfaces;
+package Classes;
 
 public interface DrawAPI {
     public void drawCircle(int radius, int x, int y);

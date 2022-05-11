@@ -1,7 +1,5 @@
 package Classes;
 
-import Interfaces.DrawAPI;
-
 public class Circle extends Shape{
     private int x, y, radius;
 

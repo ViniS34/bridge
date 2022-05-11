@@ -1,7 +1,5 @@
 package Classes;
 
-import Interfaces.DrawAPI;
-
 public class RedCircle implements DrawAPI {
 
     @Override

@@ -1,7 +1,5 @@
 package Classes;
 
-import Interfaces.DrawAPI;
-
 public abstract class Shape {
     protected DrawAPI drawAPI;
 
